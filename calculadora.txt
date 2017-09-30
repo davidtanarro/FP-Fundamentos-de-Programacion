@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+			Acerca de Pasa la calculadora
+
+Practica 1 Version 4.0 (20/10/2014)
+
+Fundamentos de Programacion
+Facultad de Informatica
+Universidad Complutense de Madrid
+
+Autores:
+	David Tanarro de las Heras (grupo F)
+	Javier Lanchas Hernandez (grupo F)
+
+Instrucciones:
+
+Es un juego para un jugador ("Usuario" vs "Automata").
+Aleatoriamente empieza uno de los dos y pulsa una cifra, y a continuacion pulsa
+la tecla "+".
+Pasa la calculadora al contrario, que pulsa una cifra en la misma fila o
+columna que la cifra pulsada anteriormente por el contrario y sin poder ser
+la misma cifra pulsada anteriormente por el rival.
+A continuacion pulsa "+" y le devuelve al que empezo y asi sucesivamente se 
+repite la operacion. 
+Pierde el juego el primer jugador que alcanza o supera la suma 31. 
+--------------------------------------------------------------------------------
